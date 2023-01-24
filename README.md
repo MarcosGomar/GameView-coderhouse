@@ -1,3 +1,3 @@
-Pre entrega 2 gomar
+#Pre entrega 2 gomar
 GameView-coderhouse
 ejercicio pre entrega
